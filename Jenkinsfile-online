@@ -16,7 +16,7 @@ pipeline {
         REGISTRY = 'docker.io'
         DOCKERHUB_NAMESPACE = '645874679'
         GITHUB_ACCOUNT = '645874679@qq.com'
-        APP_NAME = 'devops-java-sample'
+        APP_NAME = 'devops-maven-sample'
     }
 
     stages {
